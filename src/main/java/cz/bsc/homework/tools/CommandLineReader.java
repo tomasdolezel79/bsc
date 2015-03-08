@@ -32,7 +32,7 @@ public class CommandLineReader  {
 				String input = console.prompt(PROMPT);
 				commandDispatcher.processCommand(input);
 			}catch (LexException e){
-				console.print("Incorrect input at position "+e.getMessage());
+				console.print("Incorrect input at position "+e.getPosition());
 			} catch (Exception e) {
 				console.print(e);
 			}

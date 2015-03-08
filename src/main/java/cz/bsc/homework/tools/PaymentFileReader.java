@@ -28,7 +28,7 @@ public class PaymentFileReader {
 	}
 
 	public void read(File file) {
-
+		console.print("Reading file " + file.getAbsolutePath());
 		try (InputStream stream = new FileInputStream(file)) {
 			PaymentParser parser = new PaymentParser(stream);
 			while(parser.hasNext())
