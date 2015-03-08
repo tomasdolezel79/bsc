@@ -1,2 +1,0 @@
-# bsc
-bsc homework
