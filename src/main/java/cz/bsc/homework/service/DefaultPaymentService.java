@@ -3,10 +3,13 @@ package cz.bsc.homework.service;
 import java.util.List;
 
 import cz.bsc.homework.console.Console;
-import cz.bsc.homework.dao.SimpleMemoryPaymentDao;
 import cz.bsc.homework.dao.PaymentDao;
 import cz.bsc.homework.domain.Payment;
-
+/**
+ * Simple interface implementation
+ * @author dolezelt
+ *
+ */
 public class DefaultPaymentService implements PaymentService {
 	private Console console = Console.getInstance();
 

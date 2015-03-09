@@ -10,7 +10,7 @@ import cz.bsc.homework.service.PaymentService;
 import cz.bsc.homework.service.PrintService;
 
 /**
- * Dispatcher for commands input
+ * Dispatcher for commands from input
  * 
  * 
  * @author dolezelt

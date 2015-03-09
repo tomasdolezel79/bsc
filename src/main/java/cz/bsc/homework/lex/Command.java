@@ -1,7 +1,7 @@
 package cz.bsc.homework.lex;
 
 /**
- * The list of known commands.
+ * A list of known commands.
  * 
  * @author dolezelt
  *

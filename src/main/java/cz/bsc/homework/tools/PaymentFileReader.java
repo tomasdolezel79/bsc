@@ -10,7 +10,7 @@ import cz.bsc.homework.service.DefaultPaymentService;
 import cz.bsc.homework.service.PaymentService;
 
 /**
- * Read file and put result into  PaymentService
+ * Reads file and put result into  PaymentService
  * 
  * @author dolezelt
  *

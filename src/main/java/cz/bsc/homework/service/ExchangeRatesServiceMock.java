@@ -5,7 +5,7 @@ import java.util.Random;
 import cz.bsc.homework.domain.Payment;
 
 /**
- * Mock returns radom number as exchange rate
+ * Mock returns random number as exchange rate
  * @author dolezelt
  *
  */

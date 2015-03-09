@@ -3,7 +3,7 @@ package cz.bsc.homework.lex;
 import cz.bsc.homework.domain.Payment;
 
 /**
- * Accept Payment finite automaton 
+ * finite automaton accepting Payments
  * 
  * @author dolezelt
  *

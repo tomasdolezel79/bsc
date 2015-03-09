@@ -9,7 +9,7 @@ import cz.bsc.homework.service.PrintService;
 
 /**
  * Build app context
- * (this obviously doing Spring)
+ * (this usually doing Spring)
  * 
  * @author dolezelt
  *

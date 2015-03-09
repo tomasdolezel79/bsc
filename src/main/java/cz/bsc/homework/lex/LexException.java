@@ -1,6 +1,11 @@
 package cz.bsc.homework.lex;
 
-
+/**
+ * parser error
+ * 
+ * @author dolezelt
+ *
+ */
 public class LexException extends IllegalArgumentException {
 
 	/**
