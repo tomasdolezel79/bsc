@@ -44,5 +44,6 @@ Optional bonus question
 	
 Poznámky k řešení
 	Během setkání zaznělo, že projekt má být vytvořen pomocí Java SE, proto jsem 
-	nepoužil Spring, ani další běžně využívané knihovny.
+	nepoužil Spring, ani některé další běžně využívané knihovny.
+	Vzhledem k omezenému času je řešení spíš demonstrativní ukázkou než hotovým produktem. 
 	
